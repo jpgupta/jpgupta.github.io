@@ -1,7 +1,5 @@
-## Hello World
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/jpgupta/jpgupta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm the Founder & CEO of [Synap](https://synap.ac/), an online learning platform that helps students learn more in less time. Programmer (Objective-C, C++, PHP, Javascript), and general geek. 
 
 ### Markdown
