@@ -21,6 +21,7 @@ twitter_username: gupta_james
 github_username:  jpgupta
 website: https://synap.ac
 
+markdown: kramdown
 theme: jekyll-theme-cayman
 
 # Exclude from processing.
